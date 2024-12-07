@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/xdearboy/HidakiNuke/"><img src="https://github.com/xdearboy/HidakiNuke/blob/main/bomb.png?raw=true" alt="HidakiNuke" width="400"></a>
+  <a href="https://github.com/xdearboy/HidakiNuke/"><img src="https://github.com/xdearboy/HidakiNuke/blob/main/assets/bomb.png?raw=true" alt="HidakiNuke" width="400"></a>
   
   <br>
   HidakiNuke
