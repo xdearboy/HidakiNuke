@@ -33,7 +33,7 @@
 
 <div align="center">
   <video width="900" height="720" controls>
-    <source src="https://raw.githubusercontent.com/xdearboy/HidakiNuke/main/hero.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/xdearboy/HidakiNuke/main/assets/hero.mp4" type="video/mp4">
     HidakiNuke.
   </video>
 </div>
