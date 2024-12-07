@@ -28,7 +28,7 @@
   <a href="#how-to-use">Как использовать</a> •
   <a href="#config">Настройка</a> •
   <a href="#credits">Использованные библиотеки, авторы.</a> •
-  <a href="#license">Лицензия</a>
+  <a href="#License">Лицензия</a>
 </p>
 
 <div align="center">
