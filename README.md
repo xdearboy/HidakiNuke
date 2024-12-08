@@ -33,6 +33,10 @@
 
 ![gif](https://github.com/xdearboy/HidakiNuke/raw/main/assets/slowed.gif)
 
+<p align="center">
+  <a href="https://youtu.be/_mOsrgssFAE" style="font-size: smaller">(Замедленная гифка), нажмите чтобы увидеть в нормальном качестве</a>
+</p>
+
 ## <a name="Functions">Функции</a>
 * Краш сервера
   - Создание каналов, ролей и событий
