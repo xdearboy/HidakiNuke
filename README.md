@@ -32,10 +32,7 @@
 </p>
 
 <div align="center">
-  <video width="900" height="720" controls>
-    <source src="https://raw.githubusercontent.com/xdearboy/HidakiNuke/refs/heads/main/assets/hero.mp4" type="video/mp4">
-    HidakiNuke.
-  </video>
+  <video src="https://github.com/xdearboy/HidakiNuke/blob/main/assets/hero.mp4?raw=true" width="960" controls></video>
 </div>
 
 ## <a name="Functions">Функции</a>
