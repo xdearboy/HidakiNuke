@@ -53,7 +53,7 @@
 
 ## <a name="how-to-use">Как использовать</a>
 
-Что бы запустить HidakiNuke, вам нужно иметь [Git](https://git-scm.com) и [Python](https://www.python.org/) на своём компьютере. После этого, вы можете прописать команды для устаовки HidakiNuke:
+Что бы запустить HidakiNuke, вам нужно иметь [Git](https://git-scm.com) и [Python](https://www.python.org/) на своём компьютере. После этого, вы можете прописать команды для установки HidakiNuke:
 
 ```bash
 # Склонировуйте репозиторий
