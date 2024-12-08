@@ -31,10 +31,10 @@
   <a href="#License">Лицензия</a>
 </p>
 
-![gif](https://github.com/xdearboy/HidakiNuke/raw/main/assets/11.gif)
+![gif](https://github.com/xdearboy/HidakiNuke/raw/main/assets/hero.gif)
 
 <p align="center">
-  <a href="https://youtu.be/_mOsrgssFAE" style="font-size: smaller">(Замедленная гифка), нажмите чтобы увидеть в нормальном качестве</a>
+  <a href="https://youtu.be/BENdaoAFFyU?si=Nh7oYnlufncnDR3-" style="font-size: smaller">(Замедленная гифка), нажмите чтобы увидеть в нормальном качестве</a>
 </p>
 
 ## <a name="Functions">Функции</a>
