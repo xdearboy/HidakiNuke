@@ -31,7 +31,7 @@
   <a href="#License">Лицензия</a>
 </p>
 
-![gif](https://github.com/xdearboy/HidakiNuke/raw/main/assets/slowed.gif)
+![gif](https://github.com/xdearboy/HidakiNuke/raw/main/assets/11.gif)
 
 <p align="center">
   <a href="https://youtu.be/_mOsrgssFAE" style="font-size: smaller">(Замедленная гифка), нажмите чтобы увидеть в нормальном качестве</a>
