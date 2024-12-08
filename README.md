@@ -31,13 +31,7 @@
   <a href="#License">Лицензия</a>
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/_mOsrgssFAE">
-    <img src="https://github.com/xdearboy/HidakiNuke/raw/main/assets/slowed.gif" />
-    <br />
-    <span style="font-size: smaller">(Замедленная гифка), нажмите что бы увидеть в нормальном качестве</span>
-  </a>
-</p>
+![gif](https://github.com/xdearboy/HidakiNuke/raw/main/assets/slowed.gif)
 
 ## <a name="Functions">Функции</a>
 * Краш сервера
