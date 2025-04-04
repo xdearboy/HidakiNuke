@@ -12,7 +12,7 @@ class Nuke(commands.Cog):
         self.attack_counter = AttackCounter()
 
     @commands.command()
-    @commands.cooldown(1, 120, BucketType.guild)  # таймаут на 120 секунд
+    @commands.cooldown(1, 120, BucketType.guild)  # кулдаун на 120 секунд
     async def nuke(self, ctx):
         self.attack_counter.record_attack_start()
 
